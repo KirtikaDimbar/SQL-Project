@@ -18,6 +18,6 @@ To run the SQL queries, you need:
 
 ## How to Use
 1. Clone this repository:
-   git clone https://github.com/yourusername/your-repository.git
+   https://github.com/KirtikaDimbar/SQL-Project.git
 2. Open the SQL file in a database editor or terminal.
 3. Execute the queries to see the results.
